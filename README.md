@@ -1,7 +1,3 @@
-Based on the provided `package.json`, here's the updated `README.md` with the correct tech stack:
-
----
-
 # Currency Exchange App
 
 ## Description
